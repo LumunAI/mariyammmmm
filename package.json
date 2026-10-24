@@ -1,0 +1,11 @@
+{
+  "name": "mariyam-birthday-universe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A liquid-glass birthday experience for Mariyam.",
+  "scripts": {
+    "dev": "node dev-server.js",
+    "build": "node build.js",
+    "preview": "node dev-server.js dist"
+  }
+}
